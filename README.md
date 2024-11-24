@@ -1,7 +1,6 @@
 # Serpents and Ducks
-Wrangling data with Python and DuckDB
+Wrangling data with Python and DuckDB presented at [PyCon AU 2024](https://2024.pycon.org.au/)
 
-Here are the slides
+[PDF](./serpents_and_ducks.pdf).
 
-<embed src="./serpents_and_ducks.pdf" type="application/pdf"/>
-
+![Wrangling data with Python and DuckDB](./slide_001.png)
