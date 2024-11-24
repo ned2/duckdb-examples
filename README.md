@@ -3,4 +3,4 @@ Wrangling data with Python and DuckDB presented at [PyCon AU 2024](https://2024.
 
 [PDF](./serpents_and_ducks.pdf).
 
-![Wrangling data with Python and DuckDB](./slide_001.png)
+![Wrangling data with Python and DuckDB](./docs/slide_001.png)
